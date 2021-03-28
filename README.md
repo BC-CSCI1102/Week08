@@ -6,7 +6,7 @@
 
 ## Lecture Notes
 
-### Week *: Sorting Algorithms
+### Week 8: Sorting Algorithms
 
 #### Topics:
 
@@ -15,5 +15,5 @@
 
 ---
 
-See the slides
+See SW sections 2.1 - 2.4, the slides in `slides/` and the code in `src/`.
 
